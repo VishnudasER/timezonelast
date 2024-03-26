@@ -83,10 +83,10 @@ WSGI_APPLICATION = 'timezone.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'backendcourse',
-        'USER': 'vishnudas',
-        'PASSWORD': 'vishnudas',
-        'HOST': 'backendcourse.cjk6cemsuf3p.ap-southeast-2.rds.amazonaws.com',
+        'NAME': 'firstproject',
+        'USER': 'mysuperuser',
+        'PASSWORD': 'mysuperuser',
+        'HOST': 'firstproject.cjk6cemsuf3p.ap-southeast-2.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
